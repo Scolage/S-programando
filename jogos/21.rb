@@ -1,3 +1,4 @@
+#Ainda não terminei :(
 def total?()
    
 end
