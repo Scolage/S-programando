@@ -1,8 +1,8 @@
 #require  'numbers_and_words'
 #puts "Digite um numero: "
 #num = gets.chomp.to_i
-#extenço = num.to_words(locale: 'pt-BR')
-#puts extenço
+#extenso = num.to_words
+#puts extenso
 def numero_por_extenso(numero)
     unidades = %w(zero um dois três quatro cinco seis sete oito nove)
     especiais = %w(dez onze doze treze catorze quinze dezesseis dezessete dezoito dezenove)
